@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAEA,IAAK,CACD,gBAAgB,CCFA,OAAO",
+"mappings": "AAEA,IAAK,CACD,gBAAgB,CCFD,OAAO",
 "sources": ["../sass/main.scss","../sass/_vars.scss"],
 "names": [],
 "file": "main.css"
